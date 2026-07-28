@@ -15,6 +15,8 @@ public class App {
         // Array.demo();
         // Methods.demo();
         // System.out.println(Methods.getRandom(34, 90));
-        Strings.demo();
+        // Strings.demo();
+        // Strings.takeInput();
+        Strings.caseMethod();
     }
 }

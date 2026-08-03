@@ -1,6 +1,7 @@
 package com.arvind;
 
 import com.arvind.basics.Array;
+import com.arvind.basics.Inheritance;
 import com.arvind.basics.Input;
 import com.arvind.basics.Methods;
 import com.arvind.basics.Strings;
@@ -17,6 +18,7 @@ public class App {
         // System.out.println(Methods.getRandom(34, 90));
         // Strings.demo();
         // Strings.takeInput();
-        Strings.caseMethod();
+        // Strings.caseMethod();
+        Inheritance.demo();
     }
 }

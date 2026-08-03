@@ -79,6 +79,15 @@ public class Strings {
         System.out.println(sentence.contains(" "));
         System.out.println("arvindkeshri".substring(5, 9));
 
+        String words[] = sentence.split("a");
+        for(String word: words)System.out.println(word);
+
+        // An array of character works same as java array
+        String color = "brown";
+        char letters[] = color.toCharArray();
+        for(char ch: letters)System.out.println(ch);
+        System.out.println(color.isEmpty());
+
 
 
     }

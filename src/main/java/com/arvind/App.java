@@ -12,13 +12,13 @@ public class App {
         System.out.println("\n\n----------- COMPILED SUCCESSFULLY ----------------------------------------");
         System.out.println("----------- RUNNING CODE NOW ---------------------------------------------\n");
 
-        // Input.demo();
-        // Array.demo();
-        // Methods.demo();
-        // System.out.println(Methods.getRandom(34, 90));
-        // Strings.demo();
-        // Strings.takeInput();
-        // Strings.caseMethod();
+        Input.demo();
+        Array.demo();
+        Methods.demo();
+        System.out.println(Methods.getRandom(34, 90));
+        Strings.demo();
+        Strings.takeInput();
+        Strings.caseMethod();
         Inheritance.demo();
     }
 }

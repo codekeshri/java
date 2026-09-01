@@ -2,7 +2,7 @@ package fundamentals;
 
 import java.util.Scanner;
 
-public class Arrayss {
+public class Array {
     public static void main(String[] args) {
         int[] arr = input();
         secondMaximum(arr);

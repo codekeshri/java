@@ -1,9 +1,9 @@
 package fundamentals;
 
 import java.util.Arrays;
-import java.util.Scanner;
 
 public class Maths {
+
     public static void main(String[] args) {
         findDivisors(100);
     }

@@ -3,9 +3,8 @@ package fundamentals;
 import java.util.Arrays;
 import java.util.Scanner;
 
-import static java.util.Collections.swap;
-
 public class Matrix {
+
     public static void main(String[] args){
 //        int[][] mat = matrixInput();
         int[][] mat = defaultMatrix();

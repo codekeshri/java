@@ -8,6 +8,10 @@ public class Sorting {
         for(int i: arr) System.out.print(i+" ");
     }
 
+    static void mergeSort(int[] arr){
+
+    }
+
     static void insertionSortHelper(int[] arr, int j, int key){
         while(j >= 0 && arr[j] > key){
             arr[j+1] = arr[j];
